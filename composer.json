@@ -1,0 +1,11 @@
+{
+    "name": "roloza/color-name",
+    "description": "Found color from hexa code",
+    "authors": [
+        {
+            "name": "roloza",
+            "email": "patecrepe185@gmail.com"
+        }
+    ],
+    "require": {}
+}
